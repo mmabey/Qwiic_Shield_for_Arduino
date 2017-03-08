@@ -29,10 +29,10 @@
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
@@ -52,13 +52,13 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
@@ -160,11 +160,11 @@
 Shield</text>
 <text x="22.86" y="-24.13" size="1.778" layer="51" font="vector" ratio="15">N. Seidle</text>
 <wire x1="2.54" y1="0" x2="50.8" y2="0" width="0.2032" layer="20"/>
-<wire x1="0" y1="57.15" x2="2.54" y2="59.69" width="0.2032" layer="20"/>
-<wire x1="2.54" y1="59.69" x2="50.8" y2="59.69" width="0.2032" layer="20"/>
-<wire x1="50.8" y1="59.69" x2="53.34" y2="57.15" width="0.2032" layer="20"/>
-<wire x1="53.34" y1="2.54" x2="50.8" y2="0" width="0.2032" layer="20"/>
-<wire x1="2.54" y1="0" x2="0" y2="2.54" width="0.2032" layer="20"/>
+<wire x1="0" y1="57.15" x2="2.54" y2="59.69" width="0.254" layer="20"/>
+<wire x1="2.54" y1="59.69" x2="50.8" y2="59.69" width="0.254" layer="20"/>
+<wire x1="50.8" y1="59.69" x2="53.34" y2="57.15" width="0.254" layer="20"/>
+<wire x1="53.34" y1="2.54" x2="50.8" y2="0" width="0.254" layer="20"/>
+<wire x1="2.54" y1="0" x2="0" y2="2.54" width="0.254" layer="20"/>
 <text x="48.26" y="57.785" size="1.524" layer="16" font="vector" ratio="20" rot="MR0" align="center">X10</text>
 <text x="5.207" y="54.61" size="1.016" layer="21" font="vector" ratio="15" align="center">RX</text>
 <text x="5.207" y="52.07" size="1.016" layer="21" font="vector" ratio="15" align="center">TX</text>
