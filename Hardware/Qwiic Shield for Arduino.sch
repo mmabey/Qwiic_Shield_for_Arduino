@@ -6711,15 +6711,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="12.7" y1="-12.7" x2="-12.7" y2="-12.7" width="0.127" layer="51"/>
 <wire x1="-12.7" y1="-12.7" x2="-12.7" y2="12.7" width="0.127" layer="51"/>
 <text x="0" y="0" size="0.508" layer="51" ratio="15" align="center">Qwiic Board</text>
-<circle x="-1.27" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="-3.81" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="1.27" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="3.81" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="-2.54" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="-5.08" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="0" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="2.54" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="5.08" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-1.27" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-3.81" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="1.27" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="3.81" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-2.54" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-5.08" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="0" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="2.54" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="5.08" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
 <wire x1="-12.22" y1="1.5" x2="-12.22" y2="-1.5" width="0.254" layer="51"/>
 <wire x1="-9.62" y1="3" x2="-7.97" y2="3" width="0.254" layer="51"/>
 <wire x1="-7.97" y1="-2.25" x2="-7.97" y2="-3" width="0.254" layer="51"/>
@@ -6751,15 +6751,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="12.7" y1="-12.7" x2="-12.7" y2="-12.7" width="0.127" layer="51"/>
 <wire x1="-12.7" y1="-12.7" x2="-12.7" y2="12.7" width="0.127" layer="51"/>
 <text x="0" y="0" size="0.508" layer="51" ratio="15" align="center">Qwiic Board</text>
-<circle x="-1.27" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="-3.81" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="1.27" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="3.81" y="-10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="-2.54" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="-5.08" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="0" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="2.54" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
-<circle x="5.08" y="10.16" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-1.27" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-3.81" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="1.27" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="3.81" y="-11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-2.54" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="-5.08" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="0" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="2.54" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
+<circle x="5.08" y="11.43" radius="0.7239" width="0.5588" layer="51"/>
 <wire x1="-12.22" y1="1.5" x2="-12.22" y2="-1.5" width="0.254" layer="51"/>
 <wire x1="-9.62" y1="3" x2="-7.97" y2="3" width="0.254" layer="51"/>
 <wire x1="-7.97" y1="-2.25" x2="-7.97" y2="-3" width="0.254" layer="51"/>
