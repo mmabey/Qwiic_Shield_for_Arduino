@@ -1,9 +1,9 @@
-Qwiic_Shield_for_Arduino
+Qwiic Shield for Arduino
 ========================================
 
 ![Qwiic_Shield_for_Arduino](https://cdn.sparkfun.com//assets/parts/1/2/2/4/5/Qwiic_Shield_for_Arduino_X1.1_04.jpg)
 
-[*SPX-14201*](https://www.sparkfun.com/products/14286)
+[*SPX-14286*](https://www.sparkfun.com/products/14286)
 
 Uno compatible shield to connect I2C pins to 4 ports of I2C connectors. Includes level translation.
 
