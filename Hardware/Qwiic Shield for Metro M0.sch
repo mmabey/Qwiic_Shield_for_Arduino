@@ -8709,10 +8709,11 @@ Edited by M. Mabey</text>
 <label x="127" y="27.94" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="A5"/>
-<pinref part="J4" gate="G$1" pin="1"/>
-<wire x1="132.08" y1="129.54" x2="142.24" y2="129.54" width="0.1524" layer="91"/>
-<label x="134.62" y="129.54" size="1.27" layer="95"/>
+<pinref part="J3" gate="G$1" pin="10"/>
+<wire x1="190.5" y1="91.44" x2="170.18" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="91.44" x2="170.18" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="SCL"/>
+<wire x1="170.18" y1="101.6" x2="167.64" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -8737,10 +8738,11 @@ Edited by M. Mabey</text>
 <label x="127" y="30.48" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="A4"/>
-<pinref part="J4" gate="G$1" pin="2"/>
-<wire x1="132.08" y1="132.08" x2="142.24" y2="132.08" width="0.1524" layer="91"/>
-<label x="134.62" y="132.08" size="1.27" layer="95"/>
+<pinref part="U1" gate="G$1" pin="SDA"/>
+<wire x1="167.64" y1="104.14" x2="172.72" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="172.72" y1="104.14" x2="172.72" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="J3" gate="G$1" pin="9"/>
+<wire x1="172.72" y1="93.98" x2="190.5" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="5V" class="0">
@@ -8953,22 +8955,18 @@ Edited by M. Mabey</text>
 <pinref part="SUPPLY8" gate="G$1" pin="VIN"/>
 </segment>
 </net>
-<net name="SCL1" class="0">
+<net name="A5" class="0">
 <segment>
-<pinref part="J3" gate="G$1" pin="10"/>
-<wire x1="190.5" y1="91.44" x2="170.18" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="170.18" y1="91.44" x2="170.18" y2="101.6" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="SCL"/>
-<wire x1="170.18" y1="101.6" x2="167.64" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="A5"/>
+<pinref part="J4" gate="G$1" pin="1"/>
+<wire x1="132.08" y1="129.54" x2="142.24" y2="129.54" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="SDA1" class="0">
+<net name="A4" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="SDA"/>
-<wire x1="167.64" y1="104.14" x2="172.72" y2="104.14" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="104.14" x2="172.72" y2="93.98" width="0.1524" layer="91"/>
-<pinref part="J3" gate="G$1" pin="9"/>
-<wire x1="172.72" y1="93.98" x2="190.5" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="A4"/>
+<pinref part="J4" gate="G$1" pin="2"/>
+<wire x1="132.08" y1="132.08" x2="142.24" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
